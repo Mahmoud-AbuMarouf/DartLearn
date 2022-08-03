@@ -14,4 +14,7 @@ void main(List<String> arguments) {
   allStudent.insert(2, 'jehad');
   print(allStudent);
   print('**********************');
+  int sum(int x, int y) {
+    return x + y;
+  }
 }
